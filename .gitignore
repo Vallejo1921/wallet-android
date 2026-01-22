@@ -85,3 +85,5 @@ libwallet/x86_64/libminotari_wallet_ffi.a
 !app/src/main/jniLibs/
 
 .kotlin
+config.bat
+node_modules
